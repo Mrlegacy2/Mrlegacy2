@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mrlegacy2
+- 👋 Hi, I’m Gideon
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on data analytics jobs
